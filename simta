@@ -35,14 +35,14 @@
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
 
-<link rel="amphtml" href="https://project.dti.unp.ac.id/amp/" />
+<link rel="amphtml" href="https://tribunkotajakarta.com/" />
 <link rel="icon" type="image/x-icon" href="https://simta.unp.ac.id/assets/login/images/logo/logo-unp.png">
 <link rel="shortcut icon" type="image/x-icon" href="https://simta.unp.ac.id/assets/login/images/logo/logo-unp.png">
 <link rel="canonical" href="https://simta.unp.ac.id/">
-<link rel="alternate" hreflang="id-id" href="https://project.dti.unp.ac.id/amp/"/>
-<link rel="alternate" href="https://project.dti.unp.ac.id/amp/"/>
-<link rel="alternate" hreflang="id" href="https://project.dti.unp.ac.id/amp/"/>
-<link rel="alternate" hreflang="en" href="https://project.dti.unp.ac.id/amp/"/>
+<link rel="alternate" hreflang="id-id" href="https://tribunkotajakarta.com/"/>
+<link rel="alternate" href="https://tribunkotajakarta.com/"/>
+<link rel="alternate" hreflang="id" href="https://tribunkotajakarta.com/"/>
+<link rel="alternate" hreflang="en" href="https://tribunkotajakarta.com/"/>
 <!--KB6WK8EHVmVHTESzwSWVMjZ6KU8vWqCH-->
 <!--2a1s2GN9TUKbwHv3HvawyC8mbXQAIuWc-->
 <!--vi7727dwaRtKsPIHEXMsLQoewBm0jClQ-->
@@ -445,7 +445,7 @@ var googleMapsConfig = {
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://project.dti.unp.ac.id/amp/">
+        <a href="https://tribunkotajakarta.com/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
           download apps
         </a>
@@ -455,12 +455,12 @@ var googleMapsConfig = {
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://project.dti.unp.ac.id/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" href="https://tribunkotajakarta.com/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://project.dti.unp.ac.id/amp/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://tribunkotajakarta.com/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                     </a>
                 </div>
@@ -471,7 +471,7 @@ var googleMapsConfig = {
       </li>
 
       <li>
-        <a href="https://project.dti.unp.ac.id/amp/">
+        <a href="https://tribunkotajakarta.com/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
           gift registry        </a>
       </li>
@@ -572,9 +572,9 @@ color:#000;
 	</div>
 	<div class="header_panel_info">
     <ul>
-      <li><a href="https://project.dti.unp.ac.id/amp/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://simta.unp.ac.id/assets/login/images/logo/logo-unp.png">LOGIN</a></li>
-  		<li><a href="https://project.dti.unp.ac.id/amp/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://simta.unp.ac.id/assets/login/images/logo/logo-unp.png">DAFTAR</a></li>
-  		<li><a href="https://project.dti.unp.ac.id/amp/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+      <li><a href="https://tribunkotajakarta.com/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://simta.unp.ac.id/assets/login/images/logo/logo-unp.png">LOGIN</a></li>
+  		<li><a href="https://tribunkotajakarta.com/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://simta.unp.ac.id/assets/login/images/logo/logo-unp.png">DAFTAR</a></li>
+  		<li><a href="https://tribunkotajakarta.com/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
 	</div>
 </div>
@@ -1885,7 +1885,7 @@ font-size:12px;
         <div class="account-label">
             <a href="/customer/account" class="account-link">Akun Saya</a>
         </div>
-        <button><a href="https://project.dti.unp.ac.id/amp/">Masuk</a></button>
+        <button><a href="https://tribunkotajakarta.com/">Masuk</a></button>
     </div>
 
 </div></div><div class="kanmo-custom-search-mc">
@@ -2002,7 +2002,7 @@ font-size:12px;
             <div class="dropdown switcher-dropdown" data-target="dropdown">
             <ul class="header links">
             <li class="link authorization-link loginRevamp" data-label="Atau">
-            <a href="https://project.dti.unp.ac.id/amp/">
+            <a href="https://tribunkotajakarta.com/">
                 Masuk / buat akun            </a>
         </li>
 
@@ -2279,7 +2279,7 @@ font-size:12px;
     </div>
 
 </div></div><div class="kc-cashback check">
-   <a href="https://project.dti.unp.ac.id/amp/" class="kc-points-lable">
+   <a href="https://tribunkotajakarta.com/" class="kc-points-lable">
       <img src="https://simta.unp.ac.id/assets/login/images/logo/logo-unp.png" class="kcpoints-img" width="30px">
        <span>Earn <span class="price">1.000.000</span> - <span class="price">5.000.000</span> Bonus</span>
    </a>
@@ -2347,10 +2347,10 @@ font-size:12px;
                     </div>
                 </div>
                         <div class="actions">
-                <a href="https://project.dti.unp.ac.id/amp/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #dc3416, #d10505);">
+                <a href="https://tribunkotajakarta.com/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #dc3416, #d10505);">
                     <span>LOGIN</span></button></a>
                 
-                    <a href="https://project.dti.unp.ac.id/amp/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
+                    <a href="https://tribunkotajakarta.com/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a>
 <script type="text/x-magento-init">
     {
         "body": {
@@ -5319,8 +5319,8 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi SLOT TOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://project.dti.unp.ac.id/amp/"><img width="200" height="60" loading="lazy" src="https://plcl.me/images/akWoN.gif" alt="download app apple store">
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://project.dti.unp.ac.id/amp/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi SLOT TOTO</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://tribunkotajakarta.com/"><img width="200" height="60" loading="lazy" src="https://plcl.me/images/akWoN.gif" alt="download app apple store">
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://tribunkotajakarta.com/"><img width="200" height="60" loading="lazy" src="https://www.mothercare.co.id/media/wysiwyg/google-en.png" alt="download app google play"></a>
 
 <style>
 @media (min-width:768px){
@@ -5396,7 +5396,7 @@ margin:0 26px 35px;
 
 <div id="giftreg-message-pdp" style="display: none;">
 
-    	    <a href="https://project.dti.unp.ac.id/amp/" class="notlogingift">
+    	    <a href="https://tribunkotajakarta.com/" class="notlogingift">
 	    	<img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="">
 	    	CLAIM BONUS
 	    </a>
@@ -5921,11 +5921,11 @@ margin:0 26px 35px;
 
         <!-- Tombol DAFTAR & LOGIN -->
         <div style="display: flex; justify-content: space-between; width: 100%; gap: 10px; margin-bottom: 16px;">
-            <a href="https://project.dti.unp.ac.id/amp/"
+            <a href="https://tribunkotajakarta.com/"
                 style="flex: 1; background: linear-gradient(to right, #dc3416, #d10505); height: 44px; line-height: 44px; text-align: center; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
                 DAFTAR
             </a>
-            <a href="https://project.dti.unp.ac.id/amp/"
+            <a href="https://tribunkotajakarta.com/"
                 style="flex: 1; background: linear-gradient(to right, #dc3416, #d10505); height: 44px; line-height: 44px; text-align: center; color: white; font-weight: bold; font-size: 16px; text-decoration: none; border-radius: 6px; font-family: 'Segoe UI', sans-serif; box-shadow: 0 0 8px rgba(0,0,0,0.6);">
                 LOGIN
             </a>
